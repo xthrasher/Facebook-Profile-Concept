@@ -7,9 +7,9 @@
   <h3 align="center">Facebook Profile Concept</h3>
 
   <p align="center">
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/xthrasher/Facebook-Profile-Concept/issues">Report Bug</a>
     <br >
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/xthrasher/Facebook-Profile-Concept/issues">Request Feature</a>
   </p>
 </p>
 
